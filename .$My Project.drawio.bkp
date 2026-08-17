@@ -1,6 +1,6 @@
-<mxfile host="Electron" pages="5">
-  <diagram name="IDP version" id="SVu0-YCHJ3eWTpSMRlEZ">
-    <mxGraphModel dx="1030" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+<mxfile host="app.diagrams.net" pages="5">
+  <diagram name="Page-1" id="SVu0-YCHJ3eWTpSMRlEZ">
+    <mxGraphModel dx="1414" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,8 +95,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="kI8FUG646uA7fpHub9ur" name="progress">
-    <mxGraphModel dx="1084" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="kI8FUG646uA7fpHub9ur" name="Page-2">
+    <mxGraphModel dx="1414" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,8 +226,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Q4cKZvifoPJEH95yfn7n" name="IDP versions2">
-    <mxGraphModel dx="1030" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="Q4cKZvifoPJEH95yfn7n" name="Page-3">
+    <mxGraphModel dx="1414" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,8 +317,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HhqnWDcxuY-884lRwm7r" name="Project Plan">
-    <mxGraphModel dx="1717" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="HhqnWDcxuY-884lRwm7r" name="Page-4">
+    <mxGraphModel dx="1414" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,8 +439,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="gZ4GH-eoBNB8P8HvLS0x" name="AA">
-    <mxGraphModel dx="1471" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="gZ4GH-eoBNB8P8HvLS0x" name="Page-5">
+    <mxGraphModel dx="1414" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
